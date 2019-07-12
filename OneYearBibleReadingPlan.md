@@ -1,5 +1,5 @@
 ---
-permalink： /OneYearBibleReadingPlan.html
+permalink: /OneYearBibleReadingPlan.html
 ---
 <h2>读经一年一遍</h2>
 
