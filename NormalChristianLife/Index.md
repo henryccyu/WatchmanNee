@@ -1,3 +1,7 @@
+---
+permalink: /WatchmanNee/NormalChristianLife
+---
+
 # 正常的基督徒生活 - 倪柝聲
 
 ##介 言
