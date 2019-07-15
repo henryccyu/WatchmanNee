@@ -1,5 +1,5 @@
 ---
-permalink: /BloodOfJesus.html
+permalink: /NormalChristianLife/BloodOfJesus.html
 ---
 # 第一章 基督的血
 
