@@ -6,8 +6,8 @@
 
 一九六三年三月二十五日，李常受於紐約客次
 
-[第一章 基督的血](/NormalChristianLife/BloodOfJesus.html)  
-[第二章 基督的十字架](/NormalChristianLife/CrossOfJesus.html)  
+[第一章 基督的血](/WatchmanNee/NormalChristianLife/BloodOfJesus.html)  
+[第二章 基督的十字架](/WatchmanNee/NormalChristianLife/CrossOfJesus.html)  
 第三章 长进的途径──知道  
 第四章 长进的途径──计算  
 第五章 十字架的分界  
