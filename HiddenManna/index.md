@@ -46,6 +46,6 @@
 [二十. 读圣经](https://henryccyu.github.io/HiddenManna/BibleReading.html)  
 [二十一. 读经心得](https://henryccyu.github.io/HiddenManna/BibleReadingAttainment.html)
 
-[读经之路](https://henryccyu.github.io/HiddenManna/WayOfBibleReading.html)
+[读经之路](/WatchmanNee/WayOfBibleReading.html)
 
 [读经一年一遍](/WatchmanNee/OneYearBibleReadingPlan.html)
