@@ -1,5 +1,5 @@
 ---
-permalink: /WatchmanNee/NormalChristianLife/CrossOfJesus.html
+permalink: /NormalChristianLife/CrossOfJesus.html
 ---
 # 第二章 基督的十字架
 我们已经看过,罗马书一至八章分为两部分,第一部分说到血对付我们所作的,第二部分说到十字架对付我们所是的。我们需要血来赦免,我们也需要十字架来拯救。我们在前面已经简略的说过了第一部分,现在我们要来看第二部分。不过在我们说到第二部分之前,我们要再提起这几章圣经中的几个特点,这些特点加重的给我们看见,这两部分在主题上与讲论上的不同。
