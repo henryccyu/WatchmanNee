@@ -1,5 +1,5 @@
 ---
-permalink: /WatchmanNee/NormalChristianLife
+permalink: /WatchmanNee/NormalChristianLife/index.html
 ---
 
 # 正常的基督徒生活 - 倪柝聲
