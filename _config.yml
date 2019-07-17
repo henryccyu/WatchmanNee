@@ -1,2 +1,6 @@
 title: 倪柝声文选
+
+github:
+  is_project_page: false
+
 theme: jekyll-theme-cayman
